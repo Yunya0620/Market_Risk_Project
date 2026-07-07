@@ -207,11 +207,3 @@ It does not include:
 The purpose is to demonstrate structure, learning ability, and financial risk understanding.
 
 ---
-
-## Interview Summary
-
-This is a small market risk analytics platform built in Python.
-
-It starts from ETF market data, builds a hypothetical portfolio, calculates portfolio value and risk metrics, estimates Historical VaR, performs backtesting and stress testing, and finally adds Black-Scholes Greeks for derivative risk.
-
-The project is not intended to replicate a full bank-level risk system. Instead, it shows my ability to structure market risk concepts into reusable Python modules.
